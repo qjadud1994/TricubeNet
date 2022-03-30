@@ -10,6 +10,10 @@ Beomyoung Kim<sup>1</sup>, Janghyeon Lee<sup>2</sup>, Sihaeng Lee<sup>2</sup>, D
 WACV 2022 <br />
 
 [![Paper](https://img.shields.io/badge/arXiv-2104.11435-brightgreen)](https://arxiv.org/abs/2104.11435)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tricubenet-2d-kernel-based-object/one-stage-anchor-free-oriented-object-1)](https://paperswithcode.com/sota/one-stage-anchor-free-oriented-object-1?p=tricubenet-2d-kernel-based-object)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tricubenet-2d-kernel-based-object/one-stage-anchor-free-oriented-object-4)](https://paperswithcode.com/sota/one-stage-anchor-free-oriented-object-4?p=tricubenet-2d-kernel-based-object)
+
 <img src = "https://github.com/qjadud1994/TricubeNet/blob/main/figures/overview.png" width="100%" height="100%">
 
 
