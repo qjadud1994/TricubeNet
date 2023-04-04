@@ -177,11 +177,11 @@ def main():
         # save checkpoint
         if args.local_rank == 0:
 
-            if best_loss <= val_loss:
+            if best_loss >= val_loss:
                 best_loss = val_loss
                 save_checkpoint(model, optimizer, epoch, "best_loss", args.save_path)
 
-            if best_dist <= val_dist:
+            if best_dist >= val_dist:
                 best_dist = val_dist
                 save_checkpoint(model, optimizer, epoch, "best_dist", args.save_path)
                     
